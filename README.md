@@ -9,7 +9,7 @@ Mails directories are in .rar due to upload limits
   
 **To-do list:**  
 [-] automatize preprocessing  
-[+] import mails' bodies
+[+] import mails' bodies  
 [+] create feature matrix for training  
 [-] create MultinomialNB model  
 [-] test the algorithm  
