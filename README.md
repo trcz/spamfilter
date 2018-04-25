@@ -11,5 +11,7 @@ Mails directories are in .rar due to upload limits
 [-] automatize preprocessing  
 [+] import mails' bodies  
 [+] create feature matrix for training  
-[-] create MultinomialNB model  
-[-] test the algorithm  
+[+] create MultinomialNB model  
+[+] test the algorithm  
+[-] improve the code
+[-] create the algorithm for bigger number of mails
