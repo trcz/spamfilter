@@ -13,5 +13,5 @@ Mails directories are in .rar due to upload limits
 [+] create feature matrix for training  
 [+] create MultinomialNB model  
 [+] test the algorithm  
-[-] improve the code
-[-] create the algorithm for bigger number of mails
+[-] improve the code  
+[-] create the algorithm for bigger number of mails  
