@@ -6,9 +6,14 @@ I've sampled 962 mails, spam:ham ratio is 1:1
 About 66% (644) mails are training set, the rest (314) will be used for testing  
 I've preprocessed data manually   
 Mails directories are in .rar due to upload limits  
+Achieved precision for this sample: over 96%  
+  
+**Instructions for spamfilter.py:**  
+- unpack .rar files  
+- run the script  
   
 **To-do list:**  
-[-] automatize preprocessing  
+[+] automatize preprocessing  
 [+] import mails' bodies  
 [+] create feature matrix for training  
 [+] create MultinomialNB model  
