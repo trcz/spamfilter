@@ -4,7 +4,7 @@ import re
 
 '''
 DATASET SOURCE: http://www.aueb.gr/users/ion/data/lingspam_public.tar.gz
-Dataset unpacked consists of 4 main directories: bare, lemm, lemm_stop, stop
+Unpacked dataset consists of 4 main directories: bare, lemm, lemm_stop, stop
 Each main directory has subdirectories filled with mails (one .txt file per mail)
 Filenames are duplicate among main directories
 '''
