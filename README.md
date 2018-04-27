@@ -12,6 +12,11 @@ Achieved precision for this sample: over 96%
 - unpack .rar files  
 - run the script  
   
+**Instructions for preprocess.py:**  
+- download the dataset  
+- unpack it directly in script directory  
+- run the script
+
 **To-do list:**  
 [+] automatize preprocessing  
 [+] import mails' bodies  
