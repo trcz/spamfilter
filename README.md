@@ -17,20 +17,15 @@ Spam:ham ratio is the same for training and testing part of set
 Predicting models used: MultinomialNB and LinearSVC  
 Achieved precision for this dataset: over 93% for MultinomialNB and over 80% for LinearSVC
   
-**Instructions for spamfilter.py:**  
+**Instructions for spamfilter_sample.py:**  
 - unpack .rar files  
+- run the script  
+  
+ **Instructions for spamfilter_whole.py:**  
+- use preprocess.py  
 - run the script  
   
 **Instructions for preprocess.py:**  
 - download the dataset  
 - unpack it directly in script directory  
 - run the script
-
-**To-do list:**  
-[+] automatize preprocessing  
-[+] import mails' bodies  
-[+] create feature matrix for training  
-[+] create MultinomialNB model  
-[+] test the algorithm  
-[-] improve the code  
-[-] create algorithm for bigger number of mails  
